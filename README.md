@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrkishorekumar
-- 🌱 I’m currently working with React Native and React JS
+- 🌱 React Native and React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/mrkishorekumar
 
