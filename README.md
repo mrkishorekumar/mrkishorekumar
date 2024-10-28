@@ -5,7 +5,7 @@ M R Kishore Kumar</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkishorekumar&label=Profile%20views&color=0e75b6&style=flat" alt="M R Kishore Kumar" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 </a>
 
 - 🔭 I’m currently working in <a href="https://www.pantaloons.com/" target="blank">Aditya Birla Fashion and Retail Limited - Pantaloons</a>
