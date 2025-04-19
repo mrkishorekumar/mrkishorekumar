@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/mrkishorekumar" target="blank">
 M R Kishore Kumar</a></h1>
-<h3 align="center">A passionate Mobile App developer from Bangalore India &#127470;&#127475</h3>
+<h3 align="center">A passionate Mobile App developer from Chennai, India &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkishorekumar&label=Profile%20views&color=0e75b6&style=flat" alt="M R Kishore Kumar" /> </p>
 
@@ -14,7 +14,7 @@ M R Kishore Kumar</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Dart && Flutter <a href="https://docs.flutter.dev/" target="blank">Docs | Flutter</a>
+- 🌱 I’m currently learning ios development <a href="https://developer.apple.com/tutorials/app-dev-training/" target="blank">iOS Developer</a>
 
 - 💬 Ask me about **Reactjs & React-Native**
 
@@ -36,4 +36,4 @@ M R Kishore Kumar</a></h1>
 </p>
 
 
-Last Edited on: 28/10/2024
+Last Edited on: 19/04/2025
