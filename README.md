@@ -8,7 +8,7 @@ M R Kishore Kumar</a></h1>
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.pantaloons.com/" target="blank">Aditya Birla Fashion and Retail Limited - Pantaloons</a>
+- 🔭 I’m currently working in <a href="https://www.linkedin.com/company/brixbit/" target="blank">Brixbit</a>
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
 
