@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/mrkishorekumar" target="blank">
 M R Kishore Kumar</a></h1>
-<h3 align="center">A passionate Mobile App developer from Chennai, India &#127470;&#127475</h3>
+<h3 align="center">A passionate Mobile App developer from India &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkishorekumar&label=Profile%20views&color=0e75b6&style=flat" alt="M R Kishore Kumar" /> </p>
 
